@@ -1,0 +1,5 @@
+0.39 black_stork
+0.05 lakeside
+0.04 unicycle
+0.03 little_blue_heron
+0.03 whippet
